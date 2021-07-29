@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.8.2)
+  - MaterialActivityIndicator (0.0.6)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MaterialActivityIndicator
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MaterialActivityIndicator
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  MaterialActivityIndicator: 5061a52fadf7d22533734f2d34806311331bc424
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+
+PODFILE CHECKSUM: 844b6679a6b8b553408bd3ccbe20c2ccec9fbb0f
+
+COCOAPODS: 1.10.0
